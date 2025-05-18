@@ -45,7 +45,7 @@ bash
 Copy
 Edit
 
-See the github link: [
+See the github link: [ https://deepa-1505.github.io/TripAdvisor-webpage/]
     
 
 This project demonstrates my skills in front-end development.
